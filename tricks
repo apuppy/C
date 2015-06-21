@@ -1,0 +1,2 @@
+#point out the compliled file name
+gcc sourceFileName.c -o execFileName
